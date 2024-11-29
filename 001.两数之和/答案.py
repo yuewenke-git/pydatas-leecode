@@ -11,3 +11,4 @@ class Solution(object):
         return [d[target - num], i]
       d[num] = i
     # 没有特殊情况处理,因为它假定只有一个解决方案
+    121231312
